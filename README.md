@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/devjoshi9031/devjoshi9031/blob/main/Raspi_image.jpg" width="1000" height="350" title="hover text">
+<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+</p>
+
+
+
+
 - 👋 Hi, I’m Dev Joshi 
 - 👀 I’m interested in Firmware Development and Embedded Software design.
 - 🌱 I’m currently learning Electrical Engieering with focus in Embedded and real-time systems from University of California, Riverside.
@@ -8,6 +16,8 @@
       &emsp;&emsp;&emsp; 2. [SVD Implementation on GPU](https://github.com/devjoshi9031/EE217_Final_Project)</br>
       &emsp;&emsp;&emsp; 3. [Hardware Prefetching Algorithm for CPU Architecture Course](https://github.com/devjoshi9031/Advanced_CPU_Architecutre_Final_Project)</br>
       &emsp;&emsp;&emsp; 4. [Lottery Scheduler on XV6 Teaching Operating System](https://github.com/devjoshi9031/xv6_lottery_and_stride_scheduling)</br>
+      &emsp;&emsp;&emsp; 5. [Smart Car Dashboard](https://github.com/devjoshi9031/Smart_Car_Dashboard)
+      
       
       
 
